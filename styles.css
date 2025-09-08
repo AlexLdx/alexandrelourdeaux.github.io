@@ -49,6 +49,7 @@ body {
   font-size: 2.5rem;   /* taille du nom */
   margin-bottom: 1rem; /* espace sous le nom */
   line-height: 1.2;
+  color: #C646E6;
 }
 
 .intro-texte p {
