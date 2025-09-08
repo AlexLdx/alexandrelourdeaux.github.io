@@ -77,6 +77,10 @@ body {
   margin-bottom: 1rem;
 }
 
+.documents ul {
+  list-style-type: disc;
+  margin-left: 1.5rem;
+
 /* Section 4 : Zone blanche */
 .documents {
   background: white;
