@@ -98,6 +98,12 @@ body {
   margin-left: 1.5rem;
 }
 
+.documents ul ul li::before {
+  content: "– ";       /* tiret */
+  color: #007acc;      /* couleur personnalisée */
+  margin-left: -1em;   /* recale le tiret */
+}
+
 .documents a {
   color: #3366cc; /* même bleu clair pour les liens */
   text-decoration: none;
